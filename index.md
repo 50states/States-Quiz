@@ -4,28 +4,14 @@ You can use the [editor on GitHub](https://github.com/50states/States-Quiz/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<script>
-  alert("hello");
-  
-</script>
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+
+<button onclick="myFunction()">Click me</button>
 
 # Header 1
 ## Header 2
