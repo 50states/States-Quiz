@@ -8,7 +8,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   alert("hello");
   
 </script>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
